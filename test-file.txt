@@ -1,0 +1,6 @@
+
+This is a simple ASCII text file for testing.
+
+Line no. 1, ver. 1.0.0: today is thursday.
+Line no. 2, ver. 1.0.1: today is November, 15.
+Line no. 3, ver. 1.0.2: readded test-file.txt after deletion
