@@ -1,0 +1,14 @@
+# un commento - questo è ignorato
+# escludi i file .a
+*.a
+# ma traccia lib.a, sebbene su tu stia ignorando tutti i file `.a`
+!lib.a
+# ignora solo il TODO nella root, e non subdir/TODO
+/TODO
+# ignora tutti i file nella directory build/
+build/
+# ignora doc/note.txt, ma non doc/server/arch.txt
+doc/*.txt
+# ignora tutti i file .txt nella directory doc/
+doc/**/*.txt
+
